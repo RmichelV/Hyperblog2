@@ -1,10 +1,7 @@
 Esta es la historia de Richard Villalba 
 
-Richard Villalba tiene 24 años y nacio en Bolivia
-viviendo en La Paz
+Richard Villalba tiene 25 años y nacio en Bolivia
 
-hoy hablaremos de su vida y obra maestra 
+hoy hablaremos de su historia y hacemos un cambio
+modificando este repositorio
 
-En camara parece alto pero la verdad no es tan alto
-
-hoy es el CEO de platzi
